@@ -6,7 +6,7 @@ This repository showcases a series of projects focused on task prioritization an
 
 Developed a control framework for a UVMS comprising a 6 DOF vehicle and a 7 DOF manipulator. The system was designed to execute a sequence of tasks such as:
 
-- Waypoint navigation
+- Safe navigation
 - Precise landing
 - Target manipulation
 
