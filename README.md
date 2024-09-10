@@ -31,3 +31,10 @@ Explored cooperative manipulation by treating two Franka Panda robots as indepen
 - Maintaining rigid grasp constraints
 - Evaluating the impact of task prioritization on cooperative velocities under varying conditions, including multiple safety tasks
 
+
+## Demonstration Videos
+
+To see the system in action, check out the demonstration videos linked below:
+
+- [Watch the cooperative manipulation video](simulations.mp4)
+
