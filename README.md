@@ -34,6 +34,6 @@ Explored cooperative manipulation by treating two Franka Panda robots as indepen
 
 ## Demonstration Videos
 
-To see the system in action, check out the demonstration videos linked below:
+To see the system in action, check out the simulation below:
 
 ![Watch the simulation video](simulation.gif)
